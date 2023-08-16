@@ -1,4 +1,4 @@
-<h2>Hey, 🙏🏻, I'm Ashikul Akash!<p><img src="https://komarev.com/ghpvc/?username=iamashikulakash&label=Profile%20views&color=0e75b6&style=flat" alt="iamashikulakash"></p> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h2>Hey, 🙏🏻, I'm Ashikul Akash! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <br/>
 <div align = 'left'>
@@ -20,6 +20,7 @@
 <a href="https://drive.google.com/file/d/12VWmCpws1HsJoJewA5Ds0zdnk4zeQJq9/view?usp=sharing">
   <img align="left" alt="Download Resume" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/curriculum-vitae-resume-svgrepo-com.svg" />
 </a>
+  <p><img src="https://komarev.com/ghpvc/?username=iamashikulakash&label=Profile%20views&color=0e75b6&style=flat" alt="iamashikulakash"></p> 
  <br /> <br />
 
 <p><em>Incoming Software Engineer at <a href="https://www.linkedin.com/company/akkelalicomplex">Société Générale</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>BSc. Computer Science and Engineering From <a href="https://www.daffodilvarsity.edu.bd/">Daffodil International University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
