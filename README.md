@@ -80,7 +80,7 @@
 const akash = {
     pronouns: "Bro" | "Bruh",
     code: ["Javascript", "HTML", "Python", "PhP", "C++"],
-    askMeAbout: ["Web Dev", "Tech", "Machine Learning", "Digital Marketing", "Software Development", "TV Shows", "Content Writing", "Memes"],
+    askMeAbout: ["Web Developer", "Tech", "Machine Learning", "Digital Marketing", "Content Writing",],
     technologies: {
         frontEnd: {
             js: ["Vanilla", "jQuery"],
@@ -102,7 +102,7 @@ Please do consider dropping a ⭐ for this repo and some of my recent Deep Learn
 
 <p align="center">
   <a href="https://github.com/anmolpant/Detecting-COVID-19-from-X-Ray">
-    <img align="center" src="https://github.com/anmolpant/Detecting-COVID-19-from-X-Ray" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamashikulakash&repo=webdevelopmentcourse" />
   </a>
   <a href="https://github.com/anmolpant/ULMFiT-Sentiment">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anmolpant&repo=ULMFiT-Sentiment" />
