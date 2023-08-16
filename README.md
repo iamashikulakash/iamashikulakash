@@ -40,7 +40,7 @@
 **Languages and Tools:** 
 
 <p>
-  <a href="https://github.com/iamashikulakash/SaniText">
+  <a href="https://github.com/iamashikulakash/">
     <img width="60%" align="right" alt="Ashikul Akash's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamashikulakash&show_icons=true&hide_border=true" />
   </a>
   
