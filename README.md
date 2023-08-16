@@ -98,7 +98,7 @@ echo 'PHP ["PhpMyadmin"];
     },
     currentProject: "Working on shared parcel delivery worldwide platform.",
     funFact: "My humor is a cry for help."
-};
+}
 ```
 
 Please do consider dropping a ⭐ for this repo and some of my recent Deep Learning projects. 🥺
