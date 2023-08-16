@@ -1,5 +1,5 @@
-<h2>Hey, 🙏🏻, I'm Ashikul Akash! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=iamashikulakash&label=Profile%20views&color=0e75b6&style=flat" alt="iamashikulakash" /> </p>
+<h2>Hey, 🙏🏻, I'm Ashikul Akash! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><p align="right" > <img src="https://komarev.com/ghpvc/?username=iamashikulakash&label=Profile%20views&color=0e75b6&style=flat" alt="iamashikulakash" /> </p></h2> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <br/>
 <div align = 'left'>
 <a href="https://twitter.com/iamashikulakash">
