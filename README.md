@@ -21,7 +21,7 @@
   <img align="left" alt="Download Resume" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/curriculum-vitae-resume-svgrepo-com.svg" />
 </a>
   <p><img src="https://komarev.com/ghpvc/?username=iamashikulakash&label=Profile%20views&color=0e75b6&style=flat" alt="iamashikulakash"></p> 
- <br /> <br />
+ <br />
 
 <p><em>Incoming Software Engineer at <a href="https://www.linkedin.com/company/akkelalicomplex">Société Générale</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>BSc. Computer Science and Engineering From <a href="https://www.daffodilvarsity.edu.bd/">Daffodil International University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
