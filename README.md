@@ -27,14 +27,14 @@
 </em></p>
 
 - 🔭 I’m currently working on getting my shit together.
-- 🔮 What do I do? - Predict the future via computer science black magic.
+- 🔮 What do I do? - Make websites fashionable via computer science black magic.
 - 🌱 I’m currently learning to use reinforcement learning in real life to control mechanical 
-      conveyances for transporting people or goods...basically, I'm learning how to drive. 
+      conveyances for transporting people or goods...basically, I'm learning how to drive cars. 
 - 👯 I’m looking to collaborate on Web Development, Digital Marketing, and Graphics Designing related projects.
 - 🤔 I’m looking for help with LSTMs and Cloud Computing. 
 - 📫 How to reach me: oohhh toodlesssss. I mean, use the links in the header.
 - 📚 5 Words that best sum me up: Music, Movies, Memes, Minimalism, Melancholy.
-- - 🔭 I’m currently working on PHP & ADOBE XD...
+- 🔭 I’m currently working on PHP & ADOBE XD...
 - 🌱 I’m currently learning React...
 
 **Languages and Tools:** 
@@ -88,13 +88,16 @@ const akash = {
         },
         backEnd: {
             python: ["flask"]
+<?php
+echo 'PHP ["PhpMyadmin"];
+?>
         },
         devOps: ["GCP"], ["Azure"]
         databases: ["Mongo", "MySql", "sqlite", "phpMyAdmin", "Oracle"],
-        ML: ["Tensorflow", "Keras", "Sklearn", "open-cv", "matplotlib", "pandas", "Octave"]
+        ML: ["Tensorflow", "Keras", "Sklearn", "open-cv", "matplotlib", "pandas",]
     },
-    currentProject: "Working on enhancing my current skillset whilst simultaneously looking for new opportunities.",
-    funFact: "My jokes are a cry for help."
+    currentProject: "Working on shared parcel delivery worldwide platform.",
+    funFact: "My humor is a cry for help."
 };
 ```
 
