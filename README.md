@@ -111,21 +111,7 @@ Please do consider dropping a ⭐ for this repo and some of my recent Deep Learn
   <a href="https://github.com/iamashikulakash/TensorFlow-2.x-YOLOv3">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamashikulakash&repo=TensorFlow-2.x-YOLOv3" />
   </a>
-
-<details open="">
-<summary>
- 📔 GitHub Stats:
-</summary>
-<br>
-<p align="right">
   
-  <a href="https://github.com/omunite215">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=omunite215&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
-</p>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omunite215&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="omunite215" /></p>
-</details>
-
 ---
 
 ## Need help?
