@@ -3,19 +3,19 @@
 <br/>
 <div align = 'left'>
 <a href="https://twitter.com/iamashikulakash">
-  <img align="left" alt="anmolpant | Twitter" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/twitter.png" />
+  <img align="left" alt="ashikul | Twitter" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/iamashikulakash/">
-  <img align="left" alt="anmolpant's Linkdin" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/linkedin.png" />
+  <img align="left" alt="ashikul's Linkdin" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/linkedin.png" />
 </a>
 <a href="https://www.ashikulakash.xyz/">
-  <img align="left" alt="anmolpant's Portfolio" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/planet.svg" />
+  <img align="left" alt="ashikul's Portfolio" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/planet.svg" />
 </a>
 <a href="https://www.facebook.com/iamashikulakash">
-  <img align="left" alt="anmolpant's Facebook" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/facebook.png" />
+  <img align="left" alt="ashikul's Facebook" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/facebook.png" />
 </a>
 <a href="(https://www.instagram.com/meashikulakash/">
-  <img align="left" alt="anmolpant's Instagram" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/instagram.png" />
+  <img align="left" alt="ashikul's Instagram" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/instagram.png" />
 </a>
 <a href="https://drive.google.com/file/d/12VWmCpws1HsJoJewA5Ds0zdnk4zeQJq9/view?usp=sharing">
   <img align="left" alt="Download Resume" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/curriculum-vitae-resume-svgrepo-com.svg" />
@@ -23,7 +23,7 @@
   <p><img src="https://komarev.com/ghpvc/?username=iamashikulakash&label=Profile%20views&color=0e75b6&style=flat" alt="iamashikulakash"></p> 
  <br />
 
-<p><em>Incoming Software Engineer at <a href="https://www.linkedin.com/company/akkelalicomplex">Société Générale</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>BSc. Computer Science and Engineering From <a href="https://www.daffodilvarsity.edu.bd/">Daffodil International University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Incoming Software Engineer at <a href="https://www.linkedin.com/company/qualitysoftit/">Quality Soft IT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>BSc. Computer Science and Engineering From <a href="https://www.daffodilvarsity.edu.bd/">Daffodil International University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 - 🔭 I’m currently working on getting my shit together.
