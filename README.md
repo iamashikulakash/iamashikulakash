@@ -67,11 +67,18 @@
   
 </p>
 
-<div align="center">
+<div align="left">
 
 ![VisitorCount](https://profile-counter.glitch.me/{iamashikulakash}/count.svg)
 
 </div>
+<p align="right">
+  
+  <a href="https://github.com/omunite215">
+    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=omunite215&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
+</p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omunite215&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="omunite215" /></p>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -116,7 +123,7 @@ Please do consider dropping a ⭐ for this repo and some of my recent Deep Learn
  📔 GitHub Stats:
 </summary>
 <br>
-<p align="center">
+<p align="right">
   
   <a href="https://github.com/omunite215">
     <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=omunite215&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
