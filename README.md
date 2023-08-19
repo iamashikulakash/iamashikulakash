@@ -6,13 +6,13 @@
   <img align="left" alt="ashikul | Twitter" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/iamashikulakash/">
-  <img align="left" alt="ashikul's Linkdin" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/linkedin.png" />
+  <img align="left" alt="ashikul's Linkdin" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/linkedin.png" />
 </a>
 <a href="https://www.youtube.com/@iamashikulakash">
   <img align="left" alt="ashikul's Portfolio" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/youtube.png" />
 </a>
 <a href="https://www.facebook.com/iamashikulakash">
-  <img align="left" alt="ashikul's Facebook" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/facebook.png" />
+  <img align="left" alt="ashikul's Facebook" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/facebook.png" />
 </a>
 <a href="(https://www.instagram.com/meashikulakash/">
   <img align="left" alt="ashikul's Instagram" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/instagram.png" />
