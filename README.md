@@ -6,7 +6,7 @@
   <img align="left" alt="ashikul | Fiverr" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/freelance-work.png" />
 </a>
 <a href="https://www.linkedin.com/in/iamashikulakash/">
-  <img align="left" alt="ashikul's Linkdin" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/linkedin.png" />
+  <img align="left" alt="ashikul's Linkdin" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/linkedin1.png" />
 </a>
 <a href="https://www.youtube.com/@iamashikulakash">
   <img align="left" alt="ashikul's Portfolio" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/youtube.png" />
