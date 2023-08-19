@@ -3,7 +3,7 @@
 <br/>
 <div align = 'left'>
 <a href="https://twitter.com/iamashikulakash">
-  <img align="left" alt="ashikul | Twitter" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/assets/twitter.png" />
+  <img align="left" alt="ashikul | Twitter" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/master/assets/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/iamashikulakash/">
   <img align="left" alt="ashikul's Linkdin" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/linkedin.png" />
