@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/iamashikulakash/">
   <img align="left" alt="ashikul's Linkdin" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/linkedin.png" />
 </a>
-<a href="https://www.ashikulakash.xyz/">
+<a href="https://www.youtube.com/@iamashikulakash">
   <img align="left" alt="ashikul's Portfolio" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/planet.svg" />
 </a>
 <a href="https://www.facebook.com/iamashikulakash">
