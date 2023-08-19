@@ -18,7 +18,7 @@
   <img align="left" alt="ashikul's Instagram" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/instagram-flat.png" />
 </a>
   <a href="https://www.pinterest.com/iamashikulakash">
-  <img align="left" alt="ashikul | Pinterest" width="30px" src="[" />
+  <img align="left" alt="ashikul | Twitter" width="30px" src="[" />
 </a>](https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/pinterest.png)
   <a href="https://www.twitter.com/iamashikulakash">
   <img align="left" alt="ashikul | Twitter" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/twitterblack.png" />
