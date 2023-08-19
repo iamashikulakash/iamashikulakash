@@ -2,8 +2,8 @@
 
 <br/>
 <div align = 'left'>
-<a href="https://twitter.com/iamashikulakash">
-  <img align="left" alt="ashikul | Twitter" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/twitter.png" />
+  <a href="https://fiverr.com/iamashikulakash">
+  <img align="left" alt="ashikul | Fiverr" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/twitterblack.png" />
 </a>
 <a href="https://www.linkedin.com/in/iamashikulakash/">
   <img align="left" alt="ashikul's Linkdin" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/linkedin.png" />
@@ -12,13 +12,19 @@
   <img align="left" alt="ashikul's Portfolio" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/youtube.png" />
 </a>
 <a href="https://www.facebook.com/iamashikulakash">
-  <img align="left" alt="ashikul's Facebook" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/facebook.png" />
+  <img align="left" alt="ashikul's Facebook" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/facebook-logo.png" />
 </a>
 <a href="(https://www.instagram.com/meashikulakash/">
-  <img align="left" alt="ashikul's Instagram" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/instagram.png" />
+  <img align="left" alt="ashikul's Instagram" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/instagram-flat.png" />
+</a>
+  <a href="https://www.pinterest.com/iamashikulakash">
+  <img align="left" alt="ashikul | Pinterest" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/twitterblack.png" />
+</a>
+  <a href="https://www.twitter.com/iamashikulakash">
+  <img align="left" alt="ashikul | Twitter" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/twitterblack.png" />
 </a>
 <a href="https://drive.google.com/file/d/12VWmCpws1HsJoJewA5Ds0zdnk4zeQJq9/view?usp=sharing">
-  <img align="left" alt="Download Resume" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/curriculum-vitae-resume-svgrepo-com.svg" />
+  <img align="left" alt="Download Resume" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/cv.png" />
 </a>
   <p><img src="https://komarev.com/ghpvc/?username=iamashikulakash&label=Profile%20views&color=0e75b6&style=flat" alt="iamashikulakash"></p> 
  <br />
