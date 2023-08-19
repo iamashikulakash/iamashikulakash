@@ -23,7 +23,7 @@
   <p><img src="https://komarev.com/ghpvc/?username=iamashikulakash&label=Profile%20views&color=0e75b6&style=flat" alt="iamashikulakash"></p> 
  <br />
 
-<p><em>Incoming Software Engineer at <a href="https://www.linkedin.com/company/qualitysoftit/">Quality Soft IT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>BSc. Computer Science and Engineering From <a href="https://www.daffodilvarsity.edu.bd/">Daffodil International University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Incoming Web Developer at <a href="https://www.linkedin.com/company/qualitysoftit/">Quality Soft IT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>BSc. Computer Science and Engineering From <a href="https://www.daffodilvarsity.edu.bd/">Daffodil International University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 - 🔭 I’m currently working on getting my shit together.
