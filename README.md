@@ -2,7 +2,7 @@
 
 <br/>
 <div align = 'left'>
-  <a href="https://fiverr.com/iamashikulakash">
+  <a href="https://www.freelancer.com.bd/u/iamashikulakash">
   <img align="left" alt="ashikul | Fiverr" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/freelance-work.png" />
 </a>
 <a href="https://www.linkedin.com/in/iamashikulakash/">
