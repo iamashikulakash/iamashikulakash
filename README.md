@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/theashikulakash" target="blank"><img src="https://img.shields.io/twitter/follow/theashikulakash?logo=twitter&style=for-the-badge" alt="theashikulakash" /></a> </p>
 
-- 🔭 I’m currently working on [a Portfoilo](www.ashikulakash.com)
+- 🔭 I’m currently working on [a Portfoilo](https://www.ashikulakash.com)
 
 - 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **a thesis**
 
-- 🤝 I’m looking for help with [an website](www.qfsfoodservice.com)
+- 🤝 I’m looking for help with [an website](https://www.qfsfoodservice.com)
 
-- 👨‍💻 All of my projects are available at [www.ashikulakash@gmail.com](www.ashikulakash@gmail.com)
+- 👨‍💻 All of my projects are available at [https://www.ashikulakash@gmail.com](https://www.ashikulakash@gmail.com)
 
 - 💬 Ask me about **front end development**
 
