@@ -1,126 +1,45 @@
-<h2>Hey, 🙏🏻, I'm Ashikul Akash! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h1 align="center">Hi 👋, I'm Md Ashikul Islam</h1>
+<h3 align="center">🚀 Web Developer | Digital Marketer | Helping Brands Grow Online | MERN Stack | SEO Expert</h3>
 
-<br/>
-<div align = 'left'>
-  <a href="https://www.freelancer.com.bd/u/iamashikulakash">
-  <img align="left" alt="ashikul | Fiverr" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/freelance-work.png" />
-</a>
-<a href="https://www.linkedin.com/in/iamashikulakash/">
-  <img align="left" alt="ashikul's Linkdin" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/linkedin1.png" />
-</a>
-<a href="https://www.youtube.com/@iamashikulakash">
-  <img align="left" alt="ashikul's Portfolio" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/youtube.png" />
-</a>
-<a href="https://www.facebook.com/iamashikulakash">
-  <img align="left" alt="ashikul's Facebook" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/facebook-logo.png" />
-</a>
-<a href="(https://www.instagram.com/meashikulakash/">
-  <img align="left" alt="ashikul's Instagram" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/instagram-flat.png" />
-</a>
-  <a href="https://www.pinterest.com/iamashikulakash">
-  <img align="left" alt="ashikul | Pinterest" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/pinterest.png" />
-</a>
-  <a href="https://www.twitter.com/iamashikulakash">
-  <img align="left" alt="ashikul | Twitter" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/twitterblack.png" />
-</a>
-<a href="https://drive.google.com/file/d/12VWmCpws1HsJoJewA5Ds0zdnk4zeQJq9/view?usp=sharing">
-  <img align="left" alt="Download Resume" width="30px" src="https://github.com/iamashikulakash/iamashikulakash/blob/main/assets/cv.png" />
-</a>
-  <p><img src="https://komarev.com/ghpvc/?username=iamashikulakash&label=Profile%20views&color=0e75b6&style=flat" alt="iamashikulakash"></p> 
- <br />
+<p align="left"> <a href="https://twitter.com/theashikulakash" target="blank"><img src="https://img.shields.io/twitter/follow/theashikulakash?logo=twitter&style=for-the-badge" alt="theashikulakash" /></a> </p>
 
-<p><em>Incoming Web Developer at <a href="https://www.linkedin.com/company/qualitysoftit/">Quality Soft IT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>BSc. Computer Science and Engineering From <a href="https://www.daffodilvarsity.edu.bd/">Daffodil International University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</em></p>
+- 🔭 I’m currently working on [a Portfoilo](www.ashikulakash.com)
 
-- 🔭 I’m currently working on getting my shit together.
-- 🔮 What do I do? - Make websites fashionable via computer science black magic.
-- 🌱 I’m currently learning to use reinforcement learning in real life to control mechanical 
-      conveyances for transporting people or goods...basically, I'm learning how to drive cars. 
-- 👯 I’m looking to collaborate on Web Development, Digital Marketing, and Graphics Designing related projects.
-- 🤔 I’m looking for help with LSTMs and Cloud Computing. 
-- 📫 How to reach me: oohhh toodlesssss. I mean, use the links in the header.
-- 📚 5 Words that best sum me up: Music, Movies, Memes, Minimalism, Melancholy.
-- 🔭 I’m currently working on PHP & ADOBE XD...
-- 🌱 I’m currently learning React...
+- 🌱 I’m currently learning **MERN**
 
-**Languages and Tools:** 
+- 👯 I’m looking to collaborate on **a thesis**
 
-<p>
-    <a align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=iamashikulakash&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="iamashikulakash" /></a>
-  
-  
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://github.com/valohai/ml-logos/blob/master/keras-text.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
-  
+- 🤝 I’m looking for help with [an website](www.qfsfoodservice.com)
+
+- 👨‍💻 All of my projects are available at [www.ashikulakash@gmail.com](www.ashikulakash@gmail.com)
+
+- 💬 Ask me about **front end development**
+
+- 📫 How to reach me **akashashikul@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jit30eH0Koi0P_bhjx76pEO8Mh6hjjUB/view?usp=sharing](https://drive.google.com/file/d/1jit30eH0Koi0P_bhjx76pEO8Mh6hjjUB/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/theashikulakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theashikulakash" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iamashikulakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamashikulakash" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/iamashikulakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="iamashikulakash" height="30" width="40" /></a>
+<a href="https://fb.com/theashikulakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theashikulakash" height="30" width="40" /></a>
+<a href="https://instagram.com/theashikulakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theashikulakash" height="30" width="40" /></a>
+<a href="https://www.behance.net/iamashikulakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="iamashikulakash" height="30" width="40" /></a>
+<a href="https://medium.com/@iamashikulakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iamashikulakash" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/iamashikulakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iamashikulakash" height="30" width="40" /></a>
+<a href="https://discord.gg/iamashikulakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="iamashikulakash" height="30" width="40" /></a>
 </p>
-<p align="center">
-<a href="https://github.com/iamashikulakash">
-    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=iamashikulakash&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/iamashikulakash">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamashikulakash&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
-</p>
- 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const akash = {
-    pronouns: "Bro" | "Bruh",
-    code: ["Javascript", "HTML", "Python", "PhP", "C++"],
-    askMeAbout: ["Web Developer", "Tech", "Machine Learning", "Digital Marketing", "Content Writing",],
-    technologies: {
-        frontEnd: {
-            js: ["Vanilla", "jQuery"],
-            css: ["CSS3", "Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            python: ["flask"]
-<?php
-echo 'PHP ["PhpMyadmin"];
-?>
-        },
-        devOps: ["GCP"], ["Azure"]
-        databases: ["Mongo", "MySql", "sqlite", "phpMyAdmin", "Oracle"],
-        ML: ["Tensorflow", "Keras", "Sklearn", "open-cv", "matplotlib", "pandas",]
-    },
-    currentProject: "Working on shared parcel delivery worldwide platform.",
-    funFact: "My humor is a cry for help."
-}
-```
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-Please do consider dropping a ⭐ for this repo and some of my recent Deep Learning projects. 🥺
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/iamashikulakash"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamashikulakash" /></a></p><br><br>
 
-<p align="center">
-  <a href="https://github.com/iamashikulakash/WebDevelopmentCourse">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamashikulakash&repo=webdevelopmentcourse" />
-  </a>
-  <a href="https://github.com/iamashikulakash/TensorFlow-2.x-YOLOv3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamashikulakash&repo=TensorFlow-2.x-YOLOv3" />
-  </a>
-  
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamashikulakash&show_icons=true&locale=en&layout=compact" alt="iamashikulakash" /></p>
 
-## Need help?
-<i>Follow me around the web:</i><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamashikulakash&show_icons=true&locale=en" alt="iamashikulakash" /></p>
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:meashikul@hotmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) [![GitHub Akash](https://img.shields.io/github/followers/iamashikulakash?label=follow&style=social)](https://github.com/iamashikulakash) [![Portfolio](https://img.shields.io/badge/-iamashikulakash.github.io-242424?style=flat-square&logo=circle&logoColor=White)](https://iamashikulakash.github.io/) [![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/iamashikulakash) [![Quora](https://img.shields.io/badge/Quora-ask-red.svg?logo=quora)](https://www.quora.com/profile/iamashikulakash) [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/iamashikulakash/) [![Snapchat](https://img.shields.io/badge/Snapchat-add-yellow.svg?logo=snapchat&logoColor=white)](https://www.snapchat.com/add/iamashikulakash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamashikulakash/) [![Twitter Follow](https://img.shields.io/twitter/follow/nastikbrahmin?style=social)](https://twitter.com/iamashikulakash) 
-
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamashikulakash&" alt="iamashikulakash" /></p>
