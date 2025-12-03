@@ -34,7 +34,9 @@
 
 ### **Data Structures & Algorithms**
 <p>
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solver-blue?style=for-the-badge&logo=leetcode" />
+  <a href="https://leetcode.com/yourleetcodeusername/">
+    <img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-orange?style=for-the-badge&logo=leetcode" />
+  </a>
 </p>
 
 ### **Tools & DevOps**
@@ -72,9 +74,29 @@
 
 ## 🤝 Connect With Me  
 <p>
-<a href="https://www.linkedin.com/in/iamashikulakash/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
-<a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
-<a href="https://github.com/yourusername"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
+<a href="https://www.linkedin.com/in/iamashikulakash/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
+<a href="https://github.com/yourusername">
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="https://leetcode.com/yourleetcodeusername/">
+  <img src="https://skillicons.dev/icons?i=leetcode" width="50"/>
+</a>
+
+<a href="https://stackoverflow.com/users/yourstackoverflowid">
+  <img src="https://skillicons.dev/icons?i=stackoverflow" width="50"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/yourgfgusername/profile">
+  <img src="https://skillicons.dev/icons?i=linux" width="50"/> <!-- No official GFG icon, using neutral icon -->
+</a>
 </p>
 
 ---
