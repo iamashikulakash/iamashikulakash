@@ -27,6 +27,16 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
 </p>
 
+### **Programming Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,ts" />
+</p>
+
+### **Data Structures & Algorithms**
+<p>
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solver-blue?style=for-the-badge&logo=leetcode" />
+</p>
+
 ### **Tools & DevOps**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,firebase" />
@@ -47,9 +57,9 @@
 
 | Project | Stack | Live Demo | GitHub |
 |--------|-------|-----------|--------|
-| **Real-time Chat App** | MERN + WebSocket | 🔗 Live | 🔗 Repo |
-| **E-commerce Store** | MERN + Stripe | 🔗 Live | 🔗 Repo |
-| **Portfolio Website** | Next.js + Tailwind | 🔗 Live | 🔗 Repo |
+| **Real-time Chat App** | MERN + WebSocket | [Live Demo](https://your-live-link.com) | [Repository](https://github.com/yourusername/your-chat-repo) |
+| **E-commerce Store** | MERN + Stripe | [Live Demo](https://your-live-link.com) | [Repository](https://github.com/yourusername/your-ecommerce-repo) |
+| **Portfolio Website** | Next.js + Tailwind | [Live Demo](https://your-live-link.com) | [Repository](https://github.com/yourusername/your-portfolio-repo) |
 
 ---
 
@@ -70,5 +80,9 @@
 ---
 
 ## ❤️ Support My Work  
-If you like my projects, consider giving a ⭐ to the repositories!
+<p>
+<a href="https://www.buymeacoffee.com/yourusername">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+</a>
+</p>
 
